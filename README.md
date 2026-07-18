@@ -12,9 +12,109 @@ Electronics Engineering Student at Hochschule Hamm-Lippstadt, Germany
 Bridging hardware and software through programming, embedded systems, and electronics engineering.
 </p>
 ---
+---
+
 ## 👨‍💻 About Me
-I am an **Electronics Engineering** student at **Hochschule Hamm-Lippstadt, Germany 🇩🇪**, passionate about designing and developing both **hardware** and **software** solutions.
 
-My academic and personal projects focus on **Embedded Systems**, **C++ Programming**, **Object-Oriented Programming (OOP)**, **FPGA-based Digital Design**, and **PCB Design**. I enjoy combining programming with electronics to build practical and efficient engineering solutions.
+I am an **Electronics Engineering** student at **Hochschule Hamm-Lippstadt, Germany**, passionate about developing innovative solutions that combine **hardware** and **software**.
 
-Currently, I am expanding my expertise in embedded development, digital system design, hardware simulation, and modern PCB design while continuously improving my problem-solving and engineering skills.
+My interests lie in **Embedded Systems**, **C++ Software Development**, **Digital Hardware Design**, and **PCB Design**. I enjoy solving engineering problems by combining programming with practical electronics.
+
+Through academic coursework and personal projects, I continuously improve my knowledge of embedded programming, digital logic, FPGA development, and electronic system design.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+
+- C
+- C++
+- Object-Oriented Programming (OOP)
+
+### Embedded Systems
+
+- Embedded Systems
+- Arduino
+- Embedded System Simulation
+
+### Digital Design
+
+- FPGA
+- VHDL
+- ModelSim
+- Xilinx Vivado
+
+### PCB & Hardware Design
+
+- PCB Design
+- Altium Designer
+- SolidWorks
+
+### Development Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 🎯 Areas of Interest
+
+- Embedded Systems
+- Firmware Development
+- FPGA Design
+- PCB Design
+- Digital Electronics
+- Hardware & Software Integration
+- Electronics Product Development
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Electronics Engineering**  
+Hochschule Hamm-Lippstadt  
+Germany
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Embedded Systems
+Practical embedded systems projects involving Arduino, sensor interfacing, and hardware-software integration.
+
+### 🔹 FPGA & Digital Design
+Digital logic design using **VHDL**, simulation with **ModelSim**, and implementation using **Xilinx Vivado**.
+
+### 🔹 PCB Design
+PCB schematic capture and PCB layout development using **Altium Designer**.
+
+### 🔹 C++ Programming
+Object-Oriented Programming (OOP), problem solving, and engineering-related software development.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TatfifAryan&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatfifAryan&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/at-tatfif-hossan-007068418/
+- 📧 Email: at-tatfif.hossan@stud.hshl.de
+
+---
+
+<p align="center">
+
+Thanks for visiting my profile! 🚀
+
+</p>
